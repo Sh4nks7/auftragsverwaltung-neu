@@ -1,0 +1,1 @@
+ALTER TABLE auftraege ADD COLUMN IF NOT EXISTS wichtigkeit VARCHAR(50);
